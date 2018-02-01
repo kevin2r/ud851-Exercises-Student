@@ -68,7 +68,7 @@ public class GreenAdapter extends RecyclerView.Adapter<GreenAdapter.NumberViewHo
     public int getItemCount() {
         return mNumberItems;
     }
-    
+
 
     /**
      * Cache of the children views for a list item.
